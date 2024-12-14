@@ -1,0 +1,6 @@
+In Python you can define a function that do exatly anything you want!
+In Python you can work with big amount of data.
+In Python you can create some classes and save them in modules.
+In Python you can getting some input you ask from users.
+In Python you can define some dictionaries to storing data that you want.
+In Python you can choose randomly from datas in lists.
